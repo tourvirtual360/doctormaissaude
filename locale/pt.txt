@@ -51,6 +51,7 @@ HotspotPanoramaOverlayArea_606B0EAE_716F_3AB4_41D0_317DE39FDEEC.toolTip = Recep�
 HotspotPanoramaOverlayArea_60860860_7165_25AB_41DA_490B576A35DE.toolTip = Sala de Emergência
 HotspotPanoramaOverlayArea_618FACED_716D_3EB5_4196_CFA6B6BF0A07.toolTip = Entrada Principal
 HotspotPanoramaOverlayArea_61DD9F63_716D_1BAC_41D6_9DFF9ADB0A40.toolTip = Entrada Ambulância
+HotspotPanoramaOverlayArea_6397032A_7165_2BBF_41D6_3445BC3AD230.toolTip = SALA HIPERBÁRICA
 
 ## Action
 
