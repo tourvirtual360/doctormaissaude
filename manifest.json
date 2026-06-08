@@ -1,5 +1,9 @@
 {
  "name": "DOCTOR + SAÚDE",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF",
+ "description": "TOUR VIRTUAL",
  "icons": [
   {
    "type": "image/png",
@@ -37,9 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "description": "TOUR VIRTUAL",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
- "background_color": "#FFFFFF",
  "display": "fullscreen"
 }
