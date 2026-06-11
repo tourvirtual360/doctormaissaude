@@ -1,45 +1,45 @@
 {
  "name": "DOCTOR + SAÚDE",
+ "description": "TOUR VIRTUAL",
  "theme_color": "#FFFFFF",
  "start_url": "index.htm",
- "background_color": "#FFFFFF",
- "description": "TOUR VIRTUAL",
  "icons": [
   {
-   "type": "image/png",
    "sizes": "150x150",
+   "type": "image/png",
    "src": "misc/icon150.png"
   },
   {
-   "type": "image/png",
    "sizes": "16x16",
+   "type": "image/png",
    "src": "misc/icon16.png"
   },
   {
-   "type": "image/png",
    "sizes": "180x180",
+   "type": "image/png",
    "src": "misc/icon180.png"
   },
   {
-   "type": "image/png",
    "sizes": "192x192",
+   "type": "image/png",
    "src": "misc/icon192.png"
   },
   {
-   "type": "image/png",
    "sizes": "32x32",
+   "type": "image/png",
    "src": "misc/icon32.png"
   },
   {
-   "type": "image/png",
    "sizes": "512x512",
+   "type": "image/png",
    "src": "misc/icon512.png"
   },
   {
-   "type": "image/png",
    "sizes": "64x64",
+   "type": "image/png",
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen"
+ "display": "fullscreen",
+ "background_color": "#FFFFFF"
 }
